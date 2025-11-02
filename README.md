@@ -1,2 +1,25 @@
 # CabBooking_Analysis_System
-A SQL-based project for managing and analyzing cab booking data. It includes tables for customers, drivers, cabs, trips, and feedback, using joins, grouping, and filtering to track rides, fares, and performance insights for a cab service system.
+
+### 📘 Project Description
+The **CabBooking_Analysis_System** is a SQL-based database project designed to manage and analyze data related to cab services.  
+It covers customers, drivers, cabs, bookings, trip details, and feedback, and uses advanced SQL queries to extract insights such as driver performance, trip frequency, and revenue reports.
+
+### 🧠 Skills Used
+- SQL Joins (INNER, LEFT)
+- GROUP BY and Aggregate Functions
+- Subqueries and Filtering
+- Relational Database Design
+- Data Analysis using SQL
+
+### 🗂️ Database Tables
+- Customers  
+- Drivers  
+- Cabs  
+- Bookings  
+- TripDetails  
+- Feedback  
+
+### 🧩 Tools
+- MySQL Workbench / SQL Server  
+- GitHub for version control
+
